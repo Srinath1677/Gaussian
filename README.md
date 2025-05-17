@@ -47,7 +47,8 @@ for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end=' ')
 ```
 ## Output:
-![434622249-d1923424-4b52-443b-b74d-3944be74d638](https://github.com/user-attachments/assets/87034c5e-2719-41ce-a9d6-0d32f211e5f3)
+![image](https://github.com/user-attachments/assets/18bd042e-b179-4f75-98d5-a4fe894beae0)
+
 
 
 ## Result:
